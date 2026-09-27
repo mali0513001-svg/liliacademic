@@ -1,0 +1,9 @@
+{
+  "vault": {
+    "name": "申博科研规划",
+    "description": "报考郭一蓉博士生的研究计划与笔记"
+  },
+  "plugins": {
+    "excalidraw": true
+  }
+}

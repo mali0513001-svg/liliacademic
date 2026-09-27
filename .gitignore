@@ -1,0 +1,27 @@
+# === 敏感/凭据 ===
+.env
+*.env
+config/zotero.json
+*key*.json
+*token*.json
+credentials*
+
+# === 日志与缓存 ===
+*.log
+logs/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+config/jupyter.pid
+
+# === 运行时状态 ===
+config/feed_state.json
+
+# === Obsidian 本地工作区配置 ===
+.obsidian/workspace*
+.obsidian/workspace.json
+.trash/
+
+# === 系统文件 ===
+.DS_Store
+Thumbs.db
